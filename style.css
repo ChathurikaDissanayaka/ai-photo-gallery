@@ -15,16 +15,18 @@ body {
 nav,
 footer {
   color: white;
-  background: #6a3093; /* fallback for old browsers */
+  background: #feac5e; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #6a3093,
-    #a044ff
+    #4bc0c8,
+    #c779d0,
+    #feac5e
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #6a3093,
-    #a044ff
+    #4bc0c8,
+    #c779d0,
+    #feac5e
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
